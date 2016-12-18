@@ -4,7 +4,7 @@
   <artifactId>dao-lib</artifactId>
   <version>1.0-SNAPSHOT</version>
   
-  <name>alura-lib</name>
+  <name>dao-lib</name>
   <url>http://maven.apache.org</url>
   
   
